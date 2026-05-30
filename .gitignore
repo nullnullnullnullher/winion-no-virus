@@ -1,0 +1,15 @@
+# Кэш компиляции Python (создается при каждом запуске игры)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы настроек виртуального окружения (если они у тебя есть)
+.venv/
+venv/
+ENV/
+
+# Временные системные файлы Windows и кэш Pygame
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.pytest_cache/
